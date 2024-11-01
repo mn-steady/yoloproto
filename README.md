@@ -8,4 +8,6 @@ A Leptos-based Rust project with Keplr wallet integration.
 
 ## Setup
 1. Clone the repository and navigate to the directory.
-2. Run `cargo run` to start the application.
+2. Run 'wasm-pack build --target web'
+3. Run 'trunk serve --open'
+
