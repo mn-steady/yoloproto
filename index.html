@@ -6,15 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YoloProto</title>
     
-    <!-- Add a base tag for GitHub Pages -->
+    <!-- Add a base tag for relative paths to work with GitHub Pages -->
     <base href="/yoloproto/"> <!-- Replace 'yoloproto' with your GitHub repo name if different -->
 
-    <!-- Updated relative paths for CSS and JavaScript files -->
+    <!-- Updated paths to be relative -->
     <link rel="stylesheet" href="./style.css">
 
     <link rel="modulepreload" href="./yoloproto-95e93f98052487c9.js" crossorigin="anonymous" integrity="sha384-l5IONzYjBzQiu7bkBWrmlVA4KfyET/wJqWKdiIp5GJDedvxRTwzRMA4jd5kFbDbw">
-    <link rel="modulepreload" href="./snippets/leptos_reactive-f7acfdcc44aba8c4/inline0.js" crossorigin="anonymous" integrity="sha384-d8yvubxSuBtBulKXqR75Cat9GIXWqR6k5Bgu7yCoAeqNsM97ASkJwvRGESa4d7HR">
     <link rel="modulepreload" href="./snippets/yoloproto-8606234b00f7ebf6/static/wallet.js" crossorigin="anonymous" integrity="sha384-kf0hgGxE3o9XYSj1ozj4XioIohmVCViHsR+4YAdfDgfhyXUiExo5NQ6G8fpZykqJ">
+    <link rel="modulepreload" href="./snippets/leptos_reactive-f7acfdcc44aba8c4/inline0.js" crossorigin="anonymous" integrity="sha384-d8yvubxSuBtBulKXqR75Cat9GIXWqR6k5Bgu7yCoAeqNsM97ASkJwvRGESa4d7HR">
     <link rel="preload" href="./yoloproto-95e93f98052487c9_bg.wasm" crossorigin="anonymous" integrity="sha384-T0ntVl6d93x2pGAEBz1VoPVgyfqp3qXAVuWWXLk/U9hV7O0vtqSxfiJQeE9sBnun" as="fetch" type="application/wasm">
 </head>
 <body>
@@ -29,7 +29,7 @@
     <!-- Include your wallet JS file -->
     <script type="module" src="./static/wallet.js"></script>
 
-    <script type="module" nonce="VK99x7460F1f/HME7tMuZQ==">
+    <script type="module" nonce="tC7kreFrXWxBDWbWmyrVzQ==">
         import init, * as bindings from './yoloproto-95e93f98052487c9.js';
         const wasm = await init('./yoloproto-95e93f98052487c9_bg.wasm');
 
