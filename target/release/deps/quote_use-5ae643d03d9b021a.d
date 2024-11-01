@@ -1,0 +1,10 @@
+/home/ajsteadman/yoloproto/target/release/deps/libquote_use-5ae643d03d9b021a.so: /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/lib.rs /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude.rs /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/use_parser.rs /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude/core.rs /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude/std.rs /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude/2021.rs
+
+/home/ajsteadman/yoloproto/target/release/deps/quote_use-5ae643d03d9b021a.d: /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/lib.rs /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude.rs /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/use_parser.rs /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude/core.rs /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude/std.rs /home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude/2021.rs
+
+/home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/lib.rs:
+/home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude.rs:
+/home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/use_parser.rs:
+/home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude/core.rs:
+/home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude/std.rs:
+/home/ajsteadman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/quote-use-0.6.0/src/prelude/2021.rs:
