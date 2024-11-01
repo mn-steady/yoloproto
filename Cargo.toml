@@ -1,0 +1,11 @@
+[package]
+name = "yoloproto"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+leptos = "0.3"  # Make sure this is the latest version compatible with your project
+wasm-bindgen = "0.2"  # Make sure this is the latest version
+
+[lib]
+crate-type = ["cdylib"]
